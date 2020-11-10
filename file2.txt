@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test1
+=======
+nikola f(f kao fuck)udja
+>>>>>>> d5f1f530306f64eeabeb7aa45b048222cfd38fa3
